@@ -52,7 +52,7 @@ The data is preprocessed, ensuring class balance, and is used for training and t
 
 - The CNN achieved 94% accuracy on unseen data, indicating robust performance.
 - Performance metrics across AML subtypes and control groups demonstrate high precision, recall, and F1-scores.
-- Correlations among cell types suggest basophils may indicate control, while lymphocytes and monocytes correlate with AML subtypes.
+- Correlations of the single blood cell types with the presence/absence of AML suggest that basophils may indicate control, while lymphocytes and monocytes correlate with AML subtypes.
 
 ## User Interface
 
